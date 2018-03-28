@@ -1,6 +1,6 @@
 import React from 'react';
 import styled, { css } from 'react-emotion';
-import { MONTH, DAY } from '../../constants'
+import { MONTH, DAY } from 'constants/index';
 
 const Container = styled('div')`
   display: flex;
